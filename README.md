@@ -1,3 +1,3 @@
 # ExpeL
 ---
-Code coming soon.
+Repo moved to: https://github.com/LeapLabTHU/ExpeL
